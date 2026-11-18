@@ -1,4 +1,4 @@
-# FL Utils LTD
+# Frontline Utilities LTD
 
 **Frontline builds software for premium and luxury brands.**
 
@@ -10,10 +10,8 @@ Specialising in complex systems engineering, foundational technologies and marke
 
 ## Repositories
 
-These repositories contain tools and systems developed to support our work.
+Our repositories contain tools and systems developed to support our work.
 
 Many originate from challenges encountered within our business, evolving into reusable components, projects and foundational technologies.
 
 We believe in building the tools we need, maintaining control over our technology and sharing our work with the wider development community.
-
-Thank you for visiting.
