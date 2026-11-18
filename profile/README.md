@@ -1,8 +1,8 @@
 ### Software for premium and luxury brands.
 
-Frontline combines an appreciation for aesthetics aesthetics with 20 years of technical insight that unlock growth for aspirant companies.
+Frontline combines an appreciation for aesthetics with 20 years of technical insight to unlock growth for aspirant companies.
 
-Specialising in complex systems engineering, foundational technologies and market-driven initiatives, we help businesses evolve beyond their technology stack through the development of new workflows and processes to enable efficiencies previously out of reach.
+We specialise in complex systems engineering, foundational technologies and market-driven initiatives to help businesses evolve beyond their technology stack through the development of workflows and processes that enable efficiencies previously out of reach.
 
 ---
 
