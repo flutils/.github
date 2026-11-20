@@ -1,3 +1,10 @@
+<p align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./hero.jpg">
+    <img alt="Frontline Utilities LTD" src="./hero.jpg">
+</picture>
+</p>
+
 ### Software for premium and luxury brands.
 
 Frontline combines an appreciation for aesthetics with 20 years of technical insight to unlock growth for aspirant companies.
@@ -16,4 +23,4 @@ Our repositories contain tools and systems developed to support our work.
 
 Many originate from challenges encountered within our business, evolving into reusable components, projects and patterns - you're welcome to adopt and adapt them to suit your own needs.
 
-We believe in building the tools we need, maintaining control over our technology and sharing our work with the wider development community.
+We believe in building the tools we need, maintaining control over our technology and sharing our work with the wider development community. Thank you for visiting - if you have any questions, please send an email.
