@@ -5,7 +5,7 @@
 </picture>
 </p>
 
-### Software for premium and luxury brands.
+### Software for Premium and Luxury Brands
 
 Frontline combines an appreciation for aesthetics with 20 years of technical insight to unlock growth for aspirant companies.
 
@@ -13,14 +13,8 @@ We specialise in complex systems engineering, foundational technologies and mark
 
 Having worked with 150+ amazing clients over the years, we have developed a set of ideas/patterns which give us the means to improve top line growth, cut costs and increase market adoption through world class marketing, visual design & technically proficient solutions.
 
-Founded in 2009, we are always looking for new ways to help clients!
+Founded in 2009, we are always looking for new ways to help clients.
 
----
+--
 
-## Repositories
-
-Our repositories contain tools and systems developed to support our work.
-
-Many originate from challenges encountered within our business, evolving into reusable components, projects and patterns - you're welcome to adopt and adapt them to suit your own needs.
-
-We believe in building the tools we need, maintaining control over our technology and sharing our work with the wider development community. Thank you for visiting - if you have any questions, please send an email.
+We are members of [Made in Britain](https://www.madeinbritain.org/members/frontline-utilities-ltd).
